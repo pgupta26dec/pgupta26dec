@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Prashansa! </h1>
-<h3 align="center">MSc Data Science, University of Glasgow</h3>
+<h3 align="center">MSc. Data Science, University of Glasgow</h3>
 
 - 💬 Ask me about **Python, Machine Learning**
 
