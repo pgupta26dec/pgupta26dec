@@ -1,5 +1,11 @@
 <h1 align="center">Hi there👋, I'm Prashansa Gupta</h1>
 <h3 align="center">MSc Data Science, University of Glasgow</h3>
+
+- 💬 Ask me about **Python, Machine Learning**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/prashansa-gupta-india/](https://www.linkedin.com/in/prashansa-gupta-india/)
+
+- 📫 How to reach me **prashansagupta94@gmail.com**
 <!--
 **pgupta26dec/pgupta26dec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💬 Ask me about **Python, Machine Learning**
-- 📄 Know about my experiences [https://www.linkedin.com/in/prashansa-gupta-india/](https://www.linkedin.com/in/prashansa-gupta-india/)
-- 📫 How to reach me **prashansagupta94@gmail.com**
+
