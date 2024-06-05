@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prashansa-gupta-india/](https://www.linkedin.com/in/prashansa-gupta-india/)
 
-- 📫 How to reach me **prashansagupta94@gmail.com**
+- 📫 How to reach me **prashansa_gupta@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
