@@ -1,4 +1,5 @@
 <h1 align="center">Hi there👋, I'm Prashansa! </h1>
+<h3 align="center">Currently working as: Analytics Engineer</h3>
 <h3 align="center">MSc. Data Science, University of Glasgow</h3>
 
 - 💬 Ask me about **Python, R, Data Analysis, Data Visualisation and Machine Learning**
